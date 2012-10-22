@@ -1,0 +1,12 @@
+sed
+awk
+grep
+tr
+sort
+uniq
+diff
+cmp
+comm
+cut
+paste
+join

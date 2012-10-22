@@ -1,0 +1,4 @@
+inserts
+selects
+updates
+deletes
